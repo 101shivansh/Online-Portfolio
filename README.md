@@ -20,7 +20,7 @@
     <nav class="navbar">
       <div class="navbar-container container">
         <div>
-          <h1 class="navbar-brand">Sanket Bodake</h1>
+          <h1 class="navbar-brand">Shivansh Pandey</h1>
         </div>
         <ul class="menu-items">
           <li><a href="#about">About</a></li>
@@ -31,7 +31,7 @@
     </nav>
     <div class="home-content" id="home-page">
       <div class="name">
-        <h1>Hi, I'm Sanket</h1>
+        <h1>Hi, I'm Shivansh</h1>
         <p>A Web Developer in training.</p>
       </div>
       <div class="angle-down-icon">
@@ -48,7 +48,7 @@
           </div>
           <img src="https://i.postimg.cc/Hx4nChpH/fbavatar-1630400663387-6838396024049256103.png" alt="image" />
           <p>
-            I am 16 year old, BBA-CA student studied at Pratibha College of Commerce and Computer studies.
+            I am a student
             I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new
             things; the more, the better.
           </p>
